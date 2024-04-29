@@ -5,9 +5,9 @@
     "description": "Segment Anything - https://github.com/rafaelperez/Segment-Anything-for-Nuke",
     "cats": [
         {
-            "filepath": "SAM.gizmo",
+            "filepath": "sam.gizmo",
             "name": "SegmentAnything",
-            "icon": "SAM.png"
+            "icon": "sam.png"
         }
     ]
 }
